@@ -1,5 +1,4 @@
-The website is live at this link: 
-(https://portfolio-5b721.web.app/)
+The website is live at this [link](https://portfolio-5b721.web.app/).
 
 
 ## Info
